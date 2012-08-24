@@ -5,6 +5,8 @@ Sookie is a TCP game server framework, its primary use is to be able to just wor
 ## Usage
 Make a connection class and feed it to sookie.
 
+    import sookie
+
     class Connection:
         def on_connection(self):
             pass
