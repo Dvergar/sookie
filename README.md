@@ -32,3 +32,5 @@ Make a connection class and feed it to sookie.
                             apprate=1 / 60., netrate=1 / 10.)
 
 The websocket port will be your defined port +1 (10000 in that case)
+
+Note : It works but the abstraction is weird.
