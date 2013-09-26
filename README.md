@@ -33,4 +33,4 @@ Make a connection class and feed it to sookie.
 
 The websocket port will be your defined port +1 (10000 in that case)
 
-Note : It works but the abstraction is weird.
+**Note2 :** *It works but the implementation/abstraction is quite "naive"*.
